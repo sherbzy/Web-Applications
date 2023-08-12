@@ -1,0 +1,27 @@
+header a{
+  margin: 10px;
+  color: red;
+}
+
+body {
+  margin: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 6px;
+  padding: 8px;
+  background-color: purple;
+  text-align: center;
+  border: none;
+  font-weight: bold;
+}
